@@ -4,7 +4,14 @@
     "repositoryName": "comradecookie.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "michaelrea22@gmail.com",
+    "twitter": "@ComradeCookie",
+    "linkedin": "https://www.linkedin.com/in/michael-rea-3749013b",
+    "github": "comradecookie@github.com"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
