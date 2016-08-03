@@ -4,7 +4,10 @@
     "repositoryName": "comradecookie.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "This is a test",
+    "description": "Do not make notice of this"
+  },
   "socialnetwork": {
     "email": "michaelrea22@gmail.com",
     "twitter": "@ComradeCookie",
